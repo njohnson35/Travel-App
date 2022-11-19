@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Travel-App/static/css/main.ea2b6865.css",
+    "main.js": "/Travel-App/static/js/main.b8cc2ff4.js",
+    "static/media/Chicago.mp4": "/Travel-App/static/media/Chicago.3d5d64f4bd4e82538ee1.mp4",
+    "static/media/keywest.jpg": "/Travel-App/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/borabora.jpg": "/Travel-App/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/maldives.jpg": "/Travel-App/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/StonyIsland.jpg": "/Travel-App/static/media/StonyIsland.ee2f205bab6c54bd41e7.jpg",
+    "static/media/chicago.jpg": "/Travel-App/static/media/chicago.4759693a1416e9ad295e.jpg",
+    "static/media/gold.png": "/Travel-App/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/Travel-App/index.html",
+    "main.ea2b6865.css.map": "/Travel-App/static/css/main.ea2b6865.css.map",
+    "main.b8cc2ff4.js.map": "/Travel-App/static/js/main.b8cc2ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea2b6865.css",
+    "static/js/main.b8cc2ff4.js"
+  ]
+}
